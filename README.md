@@ -1,4 +1,4 @@
-[Uplpackage poonam;
+package poonam;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -60,4 +60,4 @@ public class GuessTheNumber
         scanner.close();
     }
 }
-oading GuessTheNumber.java…]()
+
